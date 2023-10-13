@@ -1,6 +1,6 @@
 ---
 title: "科研绘图1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/zhenying-lai-homepage-cn/images/作品1.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://github.com/lechen03/zhenying-lai-homepage-cn/blob/master/images/%E4%BD%9C%E5%93%811.jpg?raw=true'>"
 collection: portfolio
 ---
 
