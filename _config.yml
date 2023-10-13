@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "个人主页 - 赖贞盈"
+title                    : "赖贞盈 - 个人主页"
 title_separator          : "-"
 name                     : &name "赖贞盈"
 description              : &description "personal description"
